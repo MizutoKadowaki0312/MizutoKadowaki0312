@@ -8,7 +8,7 @@ undergraduate in Japan
 ## 🌱 I’m currently learning ... 
 Physics
 
-# 💬 interest (in something)
+## 💬 interest (in something)
 I am interested in visualizing functions using gnuplot , Julia and Mathematica.
 
 # 📫 How to reach me: ...
