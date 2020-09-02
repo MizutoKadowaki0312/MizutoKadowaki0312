@@ -1,16 +1,30 @@
-### Hi there 👋
+### SELF INTRODUCTION 💻
 
 
 
-## 🔭 I’m currently working on ... 
-undergraduate in Japan
-## 🌱 I’m currently learning ... 
-Physics
+## 🏢 I’m currently working on : 
 
-## 💬 interest (in something)
-I am interested in visualizing functions using gnuplot , Julia and Mathematica.
+Undergraduate in Japan (B4)
+Major : Physics
 
-## 📫 How to reach me: ...
+## 👨‍🎓 I’m currently learning : 
+
+- Physics (Physical property experiment group)
+- Python
+- Julia
+- HTML
+- CSS
+- JavaScript
+- Google Earth Engine
+- Mathematica
+
+
+## 💡 Interest (in something) : 
+
+- Numerical calculation
+- Function visualization
+
+## 👨 How to reach me : 
 Qiita : https://qiita.com/Mizuto_Kadowaki
 
 Twitter : https://twitter.com/kado_judo0312
