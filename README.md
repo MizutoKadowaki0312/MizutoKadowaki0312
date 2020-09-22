@@ -4,7 +4,7 @@
 
 ## 🏢 I’m currently working on : 
 
-Status : Undergraduate in Japan (B4)
+Status : Undergraduate in Japan (B4) <br>
 Major : Physics
 
 ## 👨‍🎓 I’m currently learning : 
