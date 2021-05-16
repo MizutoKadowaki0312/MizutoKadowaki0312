@@ -7,13 +7,6 @@ Major : Physics(Physical property experiment group)
 
 ## 👨‍🎓 Programming Language I use... :
 
-<<<<<<< HEAD
-=======
-Status : Undergraduate in Japan (B4) <br>
-Major : Physics
-
-## 👨‍🎓 I’m currently learning : 
-
 - Python
 - Julia
 - Python
