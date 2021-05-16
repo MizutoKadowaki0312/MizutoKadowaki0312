@@ -1,28 +1,17 @@
-### SELF INTRODUCTION 💻
+# SELF INTRODUCTION 💻
 
+## 🏢 I’m currently working on :
 
+Master's course in Japan (M1)
+Major : Physics(Physical property experiment group)
 
-## 🏢 I’m currently working on : 
+## 👨‍🎓 Programming Language I use... :
 
-Undergraduate in Japan (B4)
-Major : Physics
-
-## 👨‍🎓 I’m currently learning : 
-
-- Physics (Physical property experiment group)
-- Python
 - Julia
+- Python
 - HTML
 - CSS
-- JavaScript
 - Google Earth Engine
-- Mathematica
-
-
-## 💡 Interest (in something) : 
-
-- Numerical calculation
-- Function visualization
 
 ## 👨 How to reach me : 
 Qiita : https://qiita.com/Mizuto_Kadowaki
