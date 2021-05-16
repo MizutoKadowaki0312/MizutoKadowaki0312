@@ -2,8 +2,8 @@
 
 ## 🏢 I’m currently working on :
 
-Master's course in Japan (M1)
-Major : Physics(Physical property experiment group)
+- Master's course in Japan (M1)
+- Major : Physics(Physical property experiment group)
 
 ## 👨‍🎓 Programming Language I use... :
 
