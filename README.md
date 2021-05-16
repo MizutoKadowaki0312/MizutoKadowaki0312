@@ -14,9 +14,7 @@ Major : Physics
 
 ## 👨‍🎓 I’m currently learning : 
 
-- Physics (Physical property experiment group)
 - Python
->>>>>>> 6df4a7c240e436adebe5fa8e8601d286a0579c2a
 - Julia
 - Python
 - HTML
